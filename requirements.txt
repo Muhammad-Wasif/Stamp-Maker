@@ -1,0 +1,4 @@
+reportlab
+python-barcode
+qrcode
+Pillow
